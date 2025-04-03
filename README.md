@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Snaply saver bot**
+ 🔭 I’m currently working on **JBotLib**
  
- 🌱 I’m currently learning **Docker, PostgreSQL**
+ 🌱 I’m currently learning **PostgreSQL**
 
 💬 Ask me about **Java, Telegram Bot API, or anything [here](https://github.com/jahong1r-t/issues)**
 
