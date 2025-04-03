@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/jahong1r-t" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://jahong1r-portfolio.netlify.app" target="_blank">
+  <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
