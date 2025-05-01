@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **FeedUp bot**
+ 🔭 I’m currently working on **Movieuz bot**
  
  🌱 I’m currently learning **PostgreSQL**
 
