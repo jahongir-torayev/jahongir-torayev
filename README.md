@@ -9,11 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Movieuz bot**
+ 🔭 I’m currently working on **CodingBat clone**
  
- 🌱 I’m currently learning **PostgreSQL**
+ 🌱 I’m currently learning **Spring**
 
-💬 Ask me about **Java, Telegram Bot API, or anything [here](https://github.com/jahong1r-t/issues)**
+💬 Ask me about **Java, Jakarta EE, or anything [here](https://github.com/jahong1r-t/issues)**
 
 </div>
  
