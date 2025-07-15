@@ -13,12 +13,12 @@
  
  🌱 I’m currently learning **Spring Boot**
 
-💬 Ask me about **Java, Jakarta EE, or anything [here](https://t.me/turayev_j)**
+💬 Ask me about **Java**  [here](https://t.me/turayev_j)
 
 </div>
  
 <div align="center"> 
-  <a href="mailto:jahongirtorayev1507@gmail.com">
+  <a href="mailto:jahongirtorayevdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
     <a href="https://t.me/turayev_j" target="_blank">
@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/jahong1r-t" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,git,github,html,css,js" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,rabbitmq,graphql,maven,git,github,docker,html,css,js" />
 </div>
 
 <br/>
@@ -45,9 +45,14 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jahong1r-t&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jahong1r-t&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jahong1r-t&count_private=true&theme=react&border_radius=10&line_height=24" alt="streak stats"/>
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jahong1r-t&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide=issues" alt="readme stats" />
+
   <br/>
+
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahong1r-t&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+
