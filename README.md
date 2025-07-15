@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Spring Boot**
 
-💬 Ask me about **Java, Jakarta EE, or anything [here](https:.//t.me/turayev_j)**
+💬 Ask me about **Java, Jakarta EE, or anything [here](https://t.me/turayev_j)**
 
 </div>
  
