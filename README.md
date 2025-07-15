@@ -11,9 +11,9 @@
  
  🔭 I’m currently working on **CodingBat clone**
  
- 🌱 I’m currently learning **Spring**
+ 🌱 I’m currently learning **Spring Boot**
 
-💬 Ask me about **Java, Jakarta EE, or anything [here](https://github.com/jahong1r-t/issues)**
+💬 Ask me about **Java, Jakarta EE, or anything [here](https:.//t.me/turayev_j)**
 
 </div>
  
